@@ -11,7 +11,7 @@ However the points will not be counted from the starting cards in an effort to n
 
 This project is available on my personal Github page. However this project was developed on replit so you may also 
 find the project here: https://replit.com/join/drhejdsu-gilbertocancel
-(Note that Proj2.java was changed to Main.java)
+(Note that Proj2.java was changed to Main.java and the project may take a couple of minutes to display the GUI.)
 
 IMPORTANT
 I am not solely responsible for this project.
