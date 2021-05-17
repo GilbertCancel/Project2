@@ -19,4 +19,4 @@ Most of the code was provided by Patricia Ordoñez.
 The project was possible through the help of other students in the CCOM4029 class.
 Many debugging sessions were needed to get the project runinng and I would like to thank my peers for their advice and aid.
 
-Unfortunatly Github will not allow me to upload the card images.
+Unfortunatly Github will not allow me to upload the card images directly so I had to place them in a zip file.
