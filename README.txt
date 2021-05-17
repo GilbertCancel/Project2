@@ -12,6 +12,8 @@ However the points will not be counted from the starting cards in an effort to n
 This project is available on my personal Github page. However this project was developed on replit so you may also 
 find the project here: https://replit.com/join/drhejdsu-gilbertocancel
 (Note that Proj2.java was changed to Main.java and the project may take a couple of minutes to display the GUI.)
+Also replit may not display the entire GUI at first, you need to drag the window by the blue bar where it says "A Card Game".
+Drag that to the left until you can see the button to enlarge the GUI so you can see the entire GUI.
 
 IMPORTANT
 I am not solely responsible for this project.
